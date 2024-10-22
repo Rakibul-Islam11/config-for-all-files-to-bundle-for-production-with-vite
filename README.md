@@ -1,0 +1,1 @@
+# config-for-all-files-to-bundle-for-production-with-vite
