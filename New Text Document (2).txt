@@ -1,0 +1,10 @@
+package.json file এ এটা সেট করবেন "type": "module",
+আর postcss.config.js ফাইল এ 
+// postcss.config.js
+export default {
+  plugins: {
+    tailwindcss: {},
+    autoprefixer: {},
+  },
+};
+সেট করবেন
